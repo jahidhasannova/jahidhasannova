@@ -1,8 +1,19 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
+<h3 align="center">### 💻 Passionate Web Developer | Learning Full-Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidhasannova&label=Profile%20views&color=0e75b6&style=flat" alt="jahidhasannova" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidhasannova" alt="jahidhasannova" /></a> </p>
+
+- 🔭 I’m currently working on **Personal web development projects**
+
+- 🌱 I’m currently learning **React, TypeScript & modern web development**
+
+- 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
+
+- 💬 Ask me about **HTML, CSS, JavaScript & TypeScript**
+
+- 📫 How to reach me **https://www.linkedin.com/in/jahidhasannova/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
