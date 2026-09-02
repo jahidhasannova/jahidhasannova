@@ -78,7 +78,9 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
 
 <p align="center">
   <img
