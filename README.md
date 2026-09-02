@@ -47,18 +47,6 @@
     />
   </a>
 </p>
-<h3 align="left">Languages:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
-</p>
-
-<h3 align="left">Frontend:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
-</p>
-
 
 <h3 align="left">Languages:</h3>
 
