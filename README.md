@@ -22,11 +22,31 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/jahidhasannova/**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jahidhasannova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahidhasannova" height="30" width="40" /></a>
-</p>
+<h3 align="left">Follow me on Social Media:</h3>
 
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/jahidhasannova" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/jahidhasannova" target="_blank">
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      alt="GitHub"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
