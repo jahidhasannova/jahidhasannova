@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Personal web development projects**
 
-- 🌱 I’m currently learning **React, TypeScript & modern web development**
+- 🌱 I’m currently learning **TypeScript & modern web development**
 
 - 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
 
