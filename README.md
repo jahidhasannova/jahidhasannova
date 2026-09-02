@@ -60,10 +60,10 @@
 </p>
 
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" alt="Tools & Technologies" />
 </p>
 
 <h3 align="left">Design:</h3>
