@@ -2,29 +2,48 @@
   <img src="./banner.png" alt="Jahid Hasan Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
+<ul align="center">
+  <summary>
+    <h1 style="display: inline-block">Hi 👋, I'm Jahid Hasan</h1>
+  </summary>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%92%BB+Passionate+Web+Developer;%E2%9A%9B%EF%B8%8F+React+%26+TypeScript+Learner;%F0%9F%9A%80+Aspiring+Full-Stack+Developer" alt="Typing SVG" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Passionate+Web+Developer;%E2%9A%9B%EF%B8%8F+React+%26+TypeScript+Learner;%F0%9F%9A%80+Aspiring+Full-Stack+Developer"
+      alt="Typing SVG"
+    />
+  </a>
+</ul>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jahidhasannova&label=Profile%20views&color=0e75b6&style=flat" alt="jahidhasannova" />
+  <img
+    src="https://komarev.com/ghpvc/?username=jahidhasannova&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </p>
 
-* 🔭 I’m currently working on **Personal web development projects**
+---
+
+## 👨‍💻 ABOUT ME
+
+* 🔭 I’m currently working on **Personal & learning projects**
 * 🌱 I’m currently learning **React, TypeScript & modern web development**
 * 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
-* 💬 Ask me about **HTML, CSS, JavaScript & TypeScript**
+* 💬 Ask me about **HTML, CSS, JavaScript, TypeScript & React**
+* 🚀 My goal is to become a **Professional Full-Stack Developer**
+* 📚 Currently focused on **building projects and strengthening my web development fundamentals**
 * 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jahidhasannova/)**
 
-<h3 align="left">Follow me on Social Media:</h3>
+<br/>
+
+<!--- socials --->
+
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
 <p align="left">
   <a href="https://linkedin.com/in/jahidhasannova" target="_blank">
     <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://skillicons.dev/icons?i=linkedin"
       alt="LinkedIn"
       height="30"
       width="40"
@@ -33,8 +52,7 @@
 
   <a href="https://github.com/jahidhasannova" target="_blank">
     <img
-      align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      src="https://skillicons.dev/icons?i=github"
       alt="GitHub"
       height="30"
       width="40"
@@ -42,57 +60,73 @@
   </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<br/>
+
+<!--- technology --->
+
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts"
+    alt="Languages"
+  />
 </p>
 
-<h3 align="left">Frontend:</h3>
+### CSS Frameworks & Libraries:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
+  <img
+    src="https://skillicons.dev/icons?i=tailwind,bootstrap"
+    alt="CSS Frameworks & Libraries"
+  />
 </p>
 
-<h3 align="left">CSS Frameworks & Libraries:</h3>
+### JavaScript Frameworks & Libraries:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="CSS Frameworks & Libraries" />
+  <img
+    src="https://skillicons.dev/icons?i=react"
+    alt="JavaScript Frameworks & Libraries"
+  />
 </p>
 
-<h3 align="left">Tools & Technologies:</h3>
+### Tools & Technologies:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite" alt="Tools & Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite"
+    alt="Tools & Technologies"
+  />
 </p>
 
-<h3 align="left">Operating Systems:</h3>
+### Design:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,apple" alt="Operating Systems" />
+  <img
+    src="https://skillicons.dev/icons?i=figma"
+    alt="Design"
+  />
 </p>
 
-<h3 align="left">Design:</h3>
+<br/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-</p>
+<!--- statistics --->
 
- <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
- 
-### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
+### 🐍 GitHub Contributions:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidhasannova&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages"
+    src="https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
+
+### 📊 GitHub Statistics:
 
 <p align="center">
   <img
@@ -103,7 +137,38 @@
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidhasannova&show_icons=true&locale=en&layout=compact"
+    alt="Top Languages"
+  />
+</p>
+
+### 🔥 GitHub Streak:
+
+<p align="center">
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasannova"
     alt="GitHub Streak"
+  />
+</p>
+
+<br/>
+
+<!--- random quote --->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
+    alt="Random Dev Quote"
+  />
+</p>
+
+---
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=jahidhasannova&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
   />
 </p>
