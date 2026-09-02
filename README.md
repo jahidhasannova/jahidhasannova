@@ -97,7 +97,7 @@
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=windows,apple,vscode,git,github,npm,vite"
+    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite"
     alt="Tools & Technologies"
   />
 </p>
@@ -157,9 +157,12 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
 
-> "Practice makes progress, and every line of code is a step forward."
-
-*- Unknown*
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
+    alt="Random Dev Quote"
+  />
+</p>
 
 ---
 
