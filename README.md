@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Passionate+Web+Developer;%F0%9F%9A%80+Learning+Full-Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%92%BB+Passionate+Web+Developer;%E2%9A%9B%EF%B8%8F+Learning+React+%26+TypeScript;%F0%9F%9A%80+Future+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidhasannova&label=Profile%20views&color=0e75b6&style=flat" alt="jahidhasannova" /> </p>
 
