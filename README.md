@@ -22,23 +22,21 @@
   />
 </p>
 
----
+<br/>
 
 ## 👨‍💻 ABOUT ME
 
-* 🔭 I’m currently working on **Personal & learning projects**
-* 🌱 I’m currently learning **React, TypeScript & modern web development**
-* 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
-* 💬 Ask me about **HTML, CSS, JavaScript, TypeScript & React**
-* 🚀 My goal is to become a **Professional Full-Stack Developer**
-* 📚 Currently focused on **building projects and strengthening my web development fundamentals**
-* 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jahidhasannova/)**
+- 🔭 I’m currently working on **Personal & learning projects**
+- 🌱 I’m currently learning **React, TypeScript & modern web development**
+- 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript & React**
+- 🚀 My goal is to become a **Professional Full-Stack Developer**
+- 📚 Currently focused on **building projects and strengthening my web development fundamentals**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jahidhasannova/)**
 
 <br/>
 
-<!--- socials --->
-
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
+## 🤝 CONNECT WITH ME:
 
 <p align="left">
   <a href="https://linkedin.com/in/jahidhasannova" target="_blank">
@@ -62,9 +60,7 @@
 
 <br/>
 
-<!--- technology --->
-
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
+## 🛠️ TECHNOLOGY STACK:
 
 ### Languages:
 
@@ -113,20 +109,18 @@
 
 <br/>
 
-<!--- statistics --->
-
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+## 📊 GITHUB STATISTICS & ANALYSIS:
 
 ### 🐍 GitHub Contributions:
 
 <p align="center">
   <img
-    src="https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg"
+    src="YOUR_OWN_SNAKE_URL"
     alt="GitHub Contribution Snake"
   />
 </p>
 
-### 📊 GitHub Statistics:
+### 📈 GitHub Statistics:
 
 <p align="center">
   <img
@@ -153,22 +147,8 @@
 
 <br/>
 
-<!--- random quote --->
+## 💡 DEVELOPER QUOTE:
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+> "Practice makes progress."
 
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
-    alt="Random Dev Quote"
-  />
-</p>
-
----
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=jahidhasannova&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
-</p>
+*- Unknown*
