@@ -78,6 +78,8 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
 </p>
 
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
