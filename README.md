@@ -13,13 +13,9 @@
 </p>
 
 * 🔭 I’m currently working on **Personal web development projects**
-
 * 🌱 I’m currently learning **React, TypeScript & modern web development**
-
 * 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
-
 * 💬 Ask me about **HTML, CSS, JavaScript & TypeScript**
-
 * 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jahidhasannova/)**
 
 <h3 align="left">Follow me on Social Media:</h3>
@@ -84,8 +80,21 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidhasannova&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jahidhasannova&show_icons=true&locale=en" alt="GitHub Stats"
-<p align="left">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidhasannova&show_icons=true&locale=en&layout=compact"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jahidhasannova&show_icons=true&locale=en"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasannova"
     alt="GitHub Streak"
