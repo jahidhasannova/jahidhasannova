@@ -47,12 +47,34 @@
     />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,git,github,vscode,figma" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
+</p>
+
+<h3 align="left">Frontend:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
+</p>
+
+<h3 align="left">CSS Frameworks & Libraries:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="CSS Frameworks" />
+</p>
+
+<h3 align="left">Tools:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+</p>
+
+<h3 align="left">Design:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
 </p>
 
 
