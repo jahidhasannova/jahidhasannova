@@ -59,11 +59,6 @@
   <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
 </p>
 
-<h3 align="left">CSS Frameworks & Libraries:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="CSS Frameworks" />
-</p>
 
 <h3 align="left">Tools:</h3>
 
