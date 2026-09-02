@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidhasannova&show_icons=true&locale=en" alt="jahidhasannova" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasannova&" alt="jahidhasannova" /></p>
-পুরো কোডগুলো দেখো এবং যে তিনটা জায়গায় ছবির কথা বললাম এই তিনটে একটু ঠিক করে দাও বাকি সব ঠিক থাকবে ।
+
