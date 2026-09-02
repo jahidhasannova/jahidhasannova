@@ -96,12 +96,6 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
 </p>
 
-<h3 align="left">Design:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidhasannova&show_icons=true&locale=en&layout=compact" alt="jahidhasannova" /></p>
 
