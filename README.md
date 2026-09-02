@@ -82,6 +82,8 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidhasannova&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jahidhasannova&show_icons=true&locale=en" alt="GitHub Stats"
 <p align="left">
   <img
