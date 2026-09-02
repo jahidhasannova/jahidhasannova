@@ -60,10 +60,40 @@
 </p>
 
 
+<h3 align="left">Languages:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
+</p>
+
+<h3 align="left">Frontend:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="Frontend" />
+</p>
+
+<h3 align="left">CSS Frameworks & Libraries:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="CSS Frameworks & Libraries" />
+</p>
+
 <h3 align="left">Tools & Technologies:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite" alt="Tools & Technologies" />
+</p>
+
+<h3 align="left">Operating Systems:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,apple" alt="Operating Systems" />
+</p>
+
+<h3 align="left">Design:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
 </p>
 
 <h3 align="left">Design:</h3>
