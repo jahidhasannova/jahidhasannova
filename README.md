@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Jahid Hasan Banner" width="100%">
 </p>
 <h1 align="center">Hi  👋, I'm Jahid Hasan</h1>
-<h3 align="left">Languages and Tools:</h3>
+
 
 
 
