@@ -4,11 +4,7 @@
 <h1 align="center">Hi  👋, I'm Jahid Hasan</h1>
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="My Skills" />
-  </a>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidhasannova&label=Profile%20views&color=0e75b6&style=flat" alt="jahidhasannova" /> </p>
 
