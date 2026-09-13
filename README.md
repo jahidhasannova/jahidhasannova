@@ -9,7 +9,7 @@
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Passionate+Web+Developer;%E2%9A%9B%EF%B8%8F+React+%26+TypeScript+Learner;%F0%9F%9A%80+Aspiring+Full-Stack+Developer"
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Passionate+Web+Developer;%E2%9A%9B%EF%B8%8F+TypeScript%2C+React+%26+Node.js+Learner;%F0%9F%9A%80+Aspiring+Full-Stack+Developer"
       alt="Typing SVG"
     />
   </a>
@@ -29,7 +29,6 @@
 * 🔭 I’m currently working on **Personal & learning projects**
 * 🌱 I’m currently learning **React, TypeScript & modern web development**
 * 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
-* 💬 Ask me about **HTML, CSS, JavaScript & TypeScript**
 * 🚀 My goal is to become a **Professional Full-Stack Developer**
 * 📚 Currently focused on **building projects and strengthening my web development fundamentals**
 * 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jahidhasannova/)**
