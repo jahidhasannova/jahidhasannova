@@ -69,7 +69,7 @@
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,c"
     alt="Languages"
   />
 </p>
@@ -78,7 +78,7 @@
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=tailwind,bootstrap"
+    src="https://skillicons.dev/icons?i=tailwind"
     alt="CSS Frameworks & Libraries"
   />
 </p>
@@ -114,7 +114,7 @@
 
 <!--- statistics --->
 
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/t.gif" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### 🐍 GitHub Contributions:
 
@@ -164,5 +164,3 @@
 </p>
 
 ---
-
-
