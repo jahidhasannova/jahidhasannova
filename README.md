@@ -69,7 +69,7 @@
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,c"
+    src="https://skillicons.dev/icons?i=c,html,css,js,ts"
     alt="Languages"
   />
 </p>
@@ -106,7 +106,13 @@
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=figma"
-    alt="Design"
+    alt="Figma"
+  />
+  <img
+    src="https://cdn.simpleicons.org/penpot"
+    alt="Penpot"
+    height="48"
+    width="48"
   />
 </p>
 
