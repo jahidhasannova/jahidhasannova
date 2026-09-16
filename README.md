@@ -27,7 +27,7 @@
 ## 👨‍💻 ABOUT ME
 
 * 🔭 I’m currently working on **Personal & learning projects**
-* 🌱 I’m currently learning **React, TypeScript & modern web development**
+* 🌱 I’m currently learning **TypeScript, React, Next.js, Node.js & modern web development**
 * 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
 * 🚀 My goal is to become a **Professional Full-Stack Developer**
 * 📚 Currently focused on **building projects and strengthening my web development fundamentals**
